@@ -1,6 +1,8 @@
 # remote-jobs
 Curated list of resources and companies for remote jobs
 
+## Remote jobs indices
+
 https://jobs.github.com
 
 https://weworkremotely.com
