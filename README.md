@@ -10,7 +10,7 @@ https://weworkremotely.com
 https://remote.co/remote-jobs
 
 
-## Companies allowing remote work models
+## IT Companies allowing remote work models
 
 GiantSwarm :: Managed Kubernetes as a service :: https://giant-swarm-jobs.personio.de | Europe | Full-remote
 
@@ -21,3 +21,5 @@ Percona :: Database specialized company :: https://jobs.lever.co/percona | World
 GitHub :: Software development platform :: https://github.com/about/careers | Worldwide | Full-Remote
 
 ContainersSolutions :: Cloud native technologies :: https://www.container-solutions.com/careers | Europe | Full-remote
+
+DuckDuckGo :: The search engine that doesn't track you :: https://duckduckgo.com/hiring/#open | Worldwide | Full-remote
