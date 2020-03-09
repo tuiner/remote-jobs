@@ -12,6 +12,8 @@ https://remote.co/remote-jobs
 
 ## Companies allowing remote work models
 
-GiantSwarm :: Managed Kubernetes as a service :: https://www.giantswarm.io | Europe | Full-remote
+GiantSwarm :: Managed Kubernetes as a service :: https://giant-swarm-jobs.personio.de | Europe | Full-remote
 
-DareCode :: DevOps MicroServices FastData :: https://www.darecode.com | Spain | Full-remote
+DareCode :: DevOps MicroServices FastData :: https://darecode.com/job | Spain | Full-remote
+
+Percona :: Database specialized company :: https://jobs.lever.co/percona | Worldwide | Full-remote
