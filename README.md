@@ -17,3 +17,7 @@ GiantSwarm :: Managed Kubernetes as a service :: https://giant-swarm-jobs.person
 DareCode :: DevOps MicroServices FastData :: https://darecode.com/job | Spain | Full-remote
 
 Percona :: Database specialized company :: https://jobs.lever.co/percona | Worldwide | Full-remote
+
+GitHub :: Software development platform :: https://github.com/about/careers | Worldwide | Full-Remote
+
+ContainersSolutions :: Cloud native technologies :: https://www.container-solutions.com/careers | Europe | Full-remote
