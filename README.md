@@ -9,6 +9,8 @@ https://weworkremotely.com
 
 https://remote.co/remote-jobs
 
+https://freshremote.work
+
 
 ## IT Companies allowing remote work models
 
